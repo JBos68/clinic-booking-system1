@@ -201,3 +201,5 @@ cd frontend && npm start
 - **H2 Database** in-memory
 - **React 18** + **TypeScript**
 - **Material-UI** per UI
+
+Al momento è caricato solo lo strato di Backend, il Frontend( React) pur essendo completo e funzionante sarà caricato in seguito
